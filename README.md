@@ -1,5 +1,8 @@
 # Building-a-Naive-Bayes-classifier-from-scratch
 
+(Please see this kaggle link for more details - https://www.kaggle.com/c/abstractclassification
+I entered as a solo member team under the name of hli130, which is my university ID)
+
 Abstracts of research papers from Medline database concerning proteins are used in this Naive Bayes algorithm. The aim of this algorithm
 is to predict one of the 4 topics: Archaea, Bacteria, Eukaryota or Virus, which the research paper may be about.
 
